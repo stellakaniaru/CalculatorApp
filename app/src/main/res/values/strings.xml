@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="num0">0</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="numC">C</string>
+    <string name="numDel">Del</string>
+    <string name="numB1">)</string>
+    <string name="numB2">(</string>
+    <string name="numDot">.</string>
+    <string name="numEqu">=</string>
+    <string name="numAdd">+</string>
+    <string name="numSub">-</string>
+    <string name="numDiv">/</string>
+    <string name="numMul">*</string>
+
+</resources>
